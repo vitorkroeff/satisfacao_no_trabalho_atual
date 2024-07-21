@@ -1,0 +1,87 @@
+regime_de_trabalho,idade,anos_na_area,genero,trabalho_presencialmente,faixa_salarial,meses_no_trabalho_atual,avaliacao_trabalho_atual
+Estagiário,22,3,Feminino,1,1,10,2
+Estagiário,23,1,Masculino,1,1,54,1
+Autônomo,53,10,Masculino,2,1,9,3
+CLT  ,18,1,Feminino,2,1,0,1
+CLT  ,18,4,Feminino,2,1,1,4
+CLT  ,22,3,Feminino,2,1,2,4
+CLT  ,33,9,Feminino,2,1,2,5
+CLT  ,33,9,Feminino,2,1,2,5
+CLT  ,44,10,Feminino,2,1,2,5
+CLT  ,19,0,Feminino,2,1,3,3
+CLT  ,19,0,Feminino,2,1,3,2
+CLT  ,24,9,Feminino,2,1,3,4
+CLT  ,22,6,Feminino,2,1,5,2
+CLT  ,23,1,Feminino,2,1,12,3
+CLT  ,30,1,Feminino,2,1,15,3
+CLT  ,24,1,Feminino,2,1,18,1
+CLT  ,22,1,Feminino,2,1,19,1
+CLT  ,22,2,Feminino,2,1,20,3
+CLT  ,25,1,Feminino,2,1,21,4
+CLT  ,22,2,Feminino,2,1,23,2
+CLT  ,51,3,Feminino,2,1,27,2
+CLT  ,20,2,Feminino,2,1,30,3
+CLT  ,22,3,Feminino,2,1,38,5
+CLT  ,18,2,Masculino,2,1,1,1
+CLT  ,24,1,Masculino,2,1,2,1
+CLT  ,22,1,Masculino,2,1,2,4
+CLT  ,21,1,Masculino,2,1,7,2
+CLT  ,20,2,Masculino,2,1,20,4
+CLT  ,20,2,Outros,2,1,7,2
+Outros,20,1,Masculino,2,1,0,2
+Estagiário,25,1,Masculino,0,1-2,9,3
+PJ,20,4,Masculino,0,1-2,44,3
+Estagiário,21,2,Masculino,1,1-2,9,4
+CLT  ,27,4,Feminino,2,1-2,3,5
+CLT  ,22,1,Feminino,2,1-2,5,3
+CLT  ,48,1,Feminino,2,1-2,10,3
+CLT  ,23,3,Feminino,2,1-2,11,3
+CLT  ,21,4,Feminino,2,1-2,11,4
+CLT  ,24,1,Feminino,2,1-2,13,1
+CLT  ,49,1,Feminino,2,1-2,17,1
+CLT  ,25,3,Feminino,2,1-2,35,3
+CLT  ,23,4,Feminino,2,1-2,47,3
+CLT  ,44,2,Feminino,2,1-2,93,4
+CLT  ,19,1,Masculino,2,1-2,5,5
+CLT  ,21,1,Masculino,2,1-2,5,4
+CLT  ,23,3,Masculino,2,1-2,11,3
+CLT  ,20,2,Outros,2,1-2,19,5
+Estagiário,23,1,Feminino,2,1-2,9,4
+Estagiário,22,2,Masculino,2,1-2,22,4
+Outros,25,1,Masculino,2,1-2,3,5
+Autônomo,43,20,Feminino,1,2-4,520,4
+Autônomo,43,20,Feminino,1,2-4,37,2
+CLT  ,24,2,Feminino,1,2-4,6,2
+CLT  ,24,2,Masculino,1,2-4,10,4
+CLT  ,25,1,Masculino,1,2-4,17,4
+CLT  ,22,2,Masculino,1,2-4,28,5
+CLT  ,42,13,Masculino,1,2-4,156,2
+CLT  ,26,4,Masculino,1,2-4,312,3
+Estagiário,22,4,Feminino,1,2-4,271,5
+Estagiário,25,2,Masculino,1,2-4,18,2
+Autônomo,49,9,Masculino,2,2-4,108,5
+CLT  ,27,2,Feminino,2,2-4,23,3
+CLT  ,37,12,Feminino,2,2-4,59,5
+CLT  ,40,9,Feminino,2,2-4,108,5
+CLT  ,21,2,Masculino,2,2-4,0,5
+CLT  ,25,3,Masculino,2,2-4,17,2
+CLT  ,24,3,Masculino,2,2-4,18,3
+CLT  ,45,5,Masculino,2,2-4,58,4
+Outros,45,25,Feminino,2,2-4,2,4
+Outros,35,11,Feminino,2,2-4,135,3
+Outros,58,30,Feminino,2,2-4,365,4
+Outros,64,10,Feminino,2,2-4,526,5
+PJ,59,36,Feminino,2,2-4,444,4
+CLT  ,30,0,Masculino,0,4-6,1,5
+CLT  ,24,3,Feminino,1,4-6,5,3
+CLT  ,24,3,Feminino,1,4-6,5,3
+CLT  ,47,10,Feminino,1,4-6,120,4
+CLT  ,24,3,Masculino,1,4-6,79,4
+Autônomo,52,6,Masculino,2,4-6,81,4
+CLT  ,49,20,Masculino,2,4-6,50,4
+Outros,47,10,Feminino,2,4-6,49,5
+Outros,52,34,Feminino,2,4-6,49,3
+Outros,34,13,Feminino,2,4-6,124,4
+Outros,51,31,Masculino,2,4-6,377,4
+CLT  ,32,8,Masculino,1,6-8,36,5
+CLT  ,26,4,Masculino,0,8,26,4
